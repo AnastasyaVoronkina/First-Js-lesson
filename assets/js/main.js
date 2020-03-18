@@ -1,3 +1,4 @@
+// First lesson
 /* #1 */
 var myNum = 10;
     console.log(myNum);
